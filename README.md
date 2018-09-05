@@ -42,4 +42,4 @@ jupyter notebook
 
 # Data warning
 
-The data provided is a 50,000 row sample from the year 2015. The sample size was picked for convenience, not scientifically. We are not certain the results are truly random. This dataset should not be used for any published analysis, nor shall ProPublica be held liable for any use of this data. If you intend to publish or make decisions based on the notebooks in this repository, download and use [the full dataset]((https://www.propublica.org/datastore/dataset/chicago-parking-ticket-data) published by ProPublica Illinois.
+The data provided is a 50,000 row sample from the year 2015. The sample size was picked for convenience, not scientifically. We are not certain the results are truly random. This dataset should not be used for any published analysis, nor shall ProPublica be held liable for any use of this data. If you intend to publish or make decisions based on the notebooks in this repository, download and use [the full dataset](https://www.propublica.org/datastore/dataset/chicago-parking-ticket-data) published by ProPublica Illinois.
