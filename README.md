@@ -68,5 +68,5 @@ The data provided is a 50,000 row sample from the year 2015. The sample size was
 hearing_disposition: outcome of a hearing, either “Liable” or “Not Liable.” If the ticket was not contested this field is blank.
 * notice_number: a unique ID attached to the notice, if one was sent.
 * officer: a unique ID for the specific police officer or parking enforcement aide who issued the ticket.
-address: full address of the form “<XXXX Streetname>, Chicago, IL <ZIP code>”. Addresses in this field are normalized to the block level (e.g. 1983 N. Ashland is transformed to 1900 N. Ashland) for more efficient geocoding and analysis. This field was computed by ProPublica and does not exist in the original data.
+* address: full address of the form “<XXXX Streetname>, Chicago, IL <ZIP code>”. Addresses in this field are normalized to the block level (e.g. 1983 N. Ashland is transformed to 1900 N. Ashland) for more efficient geocoding and analysis. This field was computed by ProPublica and does not exist in the original data.
 
